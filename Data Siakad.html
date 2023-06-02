@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data Siakad UNSIA</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      background-color: #10487a;
+      padding: 20px;
+      border-radius: 4px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+
+    .box-container {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 20px;
+    }
+
+    .box {
+      width: 150px;
+      height: 150px;
+      background-color: #ffffff;
+      border-radius: 4px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px;
+      transition: box-shadow 0.3s, background-color 0.3s;
+    }
+
+    .box a {
+      text-decoration: none;
+      color: #000000;
+      font-weight: bold;
+      font-size: 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      height: 100%;
+    }
+
+    .box i {
+      margin-bottom: 10px;
+    }
+
+    .box:hover {
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+      background-color: #f9f9f9;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="header">Selamat Datang di </br>SIAKAD UNSIA</h1>
+    <div class="box-container">
+      <div class="box">
+        <a href="home.html">
+          <i class="fas fa-home"></i>
+          Home
+        </a>
+      </div>
+      <div class="box">
+        <a href="./mahasiswa/index.php">
+          <i class="fas fa-users"></i>
+          Data Mahasiswa
+        </a>
+      </div>
+      <div class="box">
+        <a href="./dosen/index.php">
+          <i class="fas fa-chalkboard-teacher"></i>
+          Data Dosen
+        </a>
+      </div>
+      <div class="box">
+        <a href="./matakuliah/index.php">
+          <i class="fas fa-book"></i>
+          Data Matakuliah
+        </a>
+      </div>
+    </div>
+    <div class="footer">
+      <p>Untuk informasi lebih lanjut, silakan hubungi kami di </br><a href="mailto:info@siakad-unsia.com">info@siakad-unsia.com</a></p>
+    </div>
+  </div>
+</body>
+</html>
