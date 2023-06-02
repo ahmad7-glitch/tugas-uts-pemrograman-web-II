@@ -14,7 +14,7 @@ Repository ini dibuat untuk memenuhi Tugas UTS Pemrograman Web II, Universitas S
 
 Berikut adalah pratinjau tampilan halaman landing:
 
-![Pratinjau](https://imgtr.ee/images/2023/06/02/SBPEi.jpg)(https://imgtr.ee/images/2023/06/02/SEx9i.png)
+![Pratinjau][https://imgtr.ee/images/2023/06/02/SEx9i.png][https://imgtr.ee/images/2023/06/02/SBPEi.jpg]
 
 ## Cara Menggunakan
 
