@@ -20,7 +20,7 @@ Berikut adalah pratinjau tampilan halaman landing:
 ## Cara Menggunakan
 
 1. Clone repository ini ke dalam komputer Anda.
-2. Buka file `https://repository-web.blogspot.com/` menggunakan browser web.
+2. Buka file `index.php` menggunakan browser web.
 3. Anda akan melihat halaman landing dengan menu navigasi.
 4. Klik tombol-tombol menu untuk mengakses halaman terkait.
 
