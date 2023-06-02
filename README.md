@@ -1,6 +1,7 @@
 # Data Siakad UNSIA Landing Page
 
 Ini adalah halaman landing (tampilan awal) untuk Data Siakad UNSIA, sebuah sistem informasi akademik untuk Universitas Siakad. Halaman ini menyediakan menu navigasi untuk mengakses Data Mahasiswa, Data Dosen, dan Data Matakuliah.
+Repository ini dibuat untuk memenuhi Tugas UTS Pemrograman Web II, Universitas Siber Asia Jakarta.
 
 ## Fitur
 
