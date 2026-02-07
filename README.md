@@ -8,7 +8,7 @@ Repository ini dibuat untuk memenuhi Tugas UTS Pemrograman Web II, Universitas S
 - Tampilan responsif dengan desain yang menarik.
 - Menu navigasi yang mudah digunakan.
 - Tombol-tombol dengan efek menarik dan responsif.
-- Dapat diakses melalui link berikut: [Data Siakad UNSIA](https://repository-web.blogspot.com/)
+- Dapat diakses melalui link berikut: [Data Siakad UNSIA]()
 
 ## Pratinjau
 
